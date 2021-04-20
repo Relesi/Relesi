@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=relesi&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+
 - Thanks for visiting. 
 
 
