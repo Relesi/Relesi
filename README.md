@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
-# Welcome!
+## Welcome!
 
-## I'm Renato - 💻 
-
-
+### I'm Renato - 💻 
 
 
-## About me 
+
+
+### About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Relesi)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
 
 - Thanks for visiting. 
 
-- Enjoy it!! o/
+
  
