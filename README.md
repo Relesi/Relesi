@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-### About me 
+### We're in htis together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
