@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ### I'm Renato - 💻 
 
-
-
+- My name is Renato, I am a Back End Developer for 12 years, although. 
+- I normally work with Java, Spring Boot and Oracle, using micro service architecture and its solutions, depending on what I am working on.
+- Developer, passionate about coding for fun, tech addicted and open-source lover.
 
 #### We're in this together!
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Relesi&theme=chartreuse&show_icons=true&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" />
+      <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" />
     </td>
   </tr>
 </table>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relesi&repo=cucumber-java)](https://github.com/Relesi/cucumber-java">
     </td> 
   </tr>
 </table>
