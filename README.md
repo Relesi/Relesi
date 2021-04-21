@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=relesi&theme=blue-green&hide_border=true)](https://git.io/streak-stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=relesi&hide_border=true)](https://git.io/streak-stats" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=relesi&theme=chartreuse&hide_border=true" />
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-    <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=github-readme-stats&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
   </tr>
 </table>
