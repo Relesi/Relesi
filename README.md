@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 #### We're in this together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/ target="_blank")](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br//)](https://www.renato.relesi.com.br/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br/ target="_blank")](https://www.renato.relesi.com.br/)
 
 <table>
   <tr>
