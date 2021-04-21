@@ -29,21 +29,21 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<a href="https://github.com/Relesi">
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api?username=relesi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Relesi">
   <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Relesi">
   <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Relesi">
   <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=relesi.github.io&theme=material-palenight" />
 </a>
 
 
