@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=relese&repo=relesi.github.io&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=github-readme-stats&theme=material-palenight" />
     </td>
   </tr>
 </table>
