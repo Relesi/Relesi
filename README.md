@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 #### I'm Renato - 💻 
 
-- I am a Back End Developer for 12 years. 
+- I am a Software architect and Back End Developer for 12 years. 
 - I normally work with Java, Spring Boot and Oracle, using micro service architecture and its solutions, depending on what I am working on.
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
+- Passionate about developing and systems' architecture, believes that open source software and cloud computing are the future.
 
 #### We're in this together!
 
