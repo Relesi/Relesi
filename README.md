@@ -52,11 +52,7 @@ Here are some ideas to get you started:
 ### Technology Used  <img   width="18px" src="https://image.flaticon.com/icons/svg/888/888954.svg" />
 
 ---
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://laravel.com/img/logomark.min.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rest API" width="26px" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -68,7 +64,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SSH" width="26px" src="https://research.reading.ac.uk/act/wp-content/uploads/sites/2/Unorganized/ssh-150x150.png" />
 <img align="left" alt="Express" width="26px" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" />
 
-
+---
 
 
 
