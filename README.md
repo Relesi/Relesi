@@ -32,6 +32,26 @@ Here are some ideas to get you started:
 
 [![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br/)](https://www.renato.relesi.com.br/)
 
+
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/"  target="_blank"/>
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<table>
+
+
+
+
+
+
+
+
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
