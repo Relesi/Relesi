@@ -29,33 +29,23 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
 
-<table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=relesi&hide_border=true" />
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=relesi&theme=chartreuse&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 
-<table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=chartreuse&hide_border=true" />
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@relesi&layout=compact&hide_border=true" alt="Wakatime stats">
-    </td>
-  </tr>
-</table>
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=relesi&hide_border=true)](https://git.io/streak-stats)
 
 - Thanks for visiting. 
 
