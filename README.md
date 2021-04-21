@@ -28,23 +28,26 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
-
-<a href="https://github.com/Relesi">
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api?username=relesi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/Relesi">
-  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/top-langs/?username=relesi&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/Relesi">
-  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/Relesi">
-  <!-- Change the `github-readme-stats.relesi.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.relesi.vercel.app/api/pin/?username=relesi&repo=relesi.github.io&theme=material-palenight" />
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Relesi&theme=chartreuse&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relesi&layout=compact&theme=chartreuse&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Relesi&layout=compact&hide_border=true" alt="Wakatime stats">
+    </td>
+  </tr>
+</table>
 
 
 - Thanks for visiting. 
