@@ -44,11 +44,11 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Relesi" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relesi&repo=cucumber-java)](https://github.com/Relesi/cucumber-java">
     </td> 
   </tr>
 </table>
-
+https://github.com/Relesi/cucumber-java
 
 - Thanks for visiting. 
 
