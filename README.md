@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-### I'm Renato - 💻 
+#### I'm Renato - 💻 
 
-- My name is Renato, I am a Back End Developer for 12 years, although. 
+- I am a Back End Developer for 12 years. 
 - I normally work with Java, Spring Boot and Oracle, using micro service architecture and its solutions, depending on what I am working on.
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
 
