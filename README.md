@@ -44,7 +44,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relesi&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eiko03" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=relesi" alt="Wakatime stats">
     </td> 
   </tr>
 </table>
