@@ -34,13 +34,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-
-
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
