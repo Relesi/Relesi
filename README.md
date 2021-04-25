@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />
-<img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/Java-logo-6BBEB11CBA-seeklogo.com.png" />
+<img align="left" alt="Java" width="20px" src="https://seeklogo.com/images/J/Java-logo-6BBEB11CBA-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rest API" width="26px" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
