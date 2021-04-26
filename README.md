@@ -29,22 +29,10 @@ Here are some ideas to get you started:
 #### We're in this together!
 
 
-<table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/) />
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src=(https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br, https://www.renato.relesi.com.br/" />
-    </td>
-  </tr>
-</table>
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
 
-[![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br/)](https://www.renato.relesi.com.br/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Renato-Lessa&logoColor=white&link=https://https://www.renato.relesi.com.br/)](https://www.renato.relesi.com.br/)
 
 
 
