@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - :grinning:        
 -->
           
-:guitar:
+
 
 <!--<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">-->
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - I normally work with Java, Spring Boot and Oracle, using micro service architecture and its solutions, depending on what I am working on.
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
 - Passionate about developing and systems' architecture, I believe that open source software and cloud computing are the future.
+- :guitar: I enjoy playing the guitar and electric guitar.
+
 
 #### We're in this together!
 
