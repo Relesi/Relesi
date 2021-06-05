@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renato-lessa-0988b05b/)](https://www.linkedin.com/in/renato-lessa-0988b05b/)
+[![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://renato.relesi.com.br/)
+[![Site Badge](https://img.shields.io/badge/%20-curr%C3%ADculo%20lattes-lightgrey)](http://lattes.cnpq.br/8412685955267202)
 
 <!--[![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br/)](https://www.renato.relesi.com.br/)-->
 
