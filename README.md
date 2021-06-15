@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <!--[![Resume Badge](https://img.shields.io/badge/-Resume-orange?style=flat-square&logo=Resume&logoColor=white&link=https://https://www.renato.relesi.com.br/)](https://www.renato.relesi.com.br/)-->
 
 
-
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
