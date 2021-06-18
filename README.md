@@ -67,8 +67,13 @@ Here are some ideas to get you started:
 ---
 <img align="left" alt="Java" width="31px" src="https://seeklogo.com/images/J/Java-logo-6BBEB11CBA-seeklogo.com.png" />
 <img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />
+<img align="left" alt="Intellij" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
 <img align="left" alt="Camel" width="26px" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png" />
 <img align="left" alt="Quarkus" width="26px" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" />
+
+
+
+
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
