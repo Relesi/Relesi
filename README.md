@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Google Cloud" width="31px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
 
 
-
+<img align="left" alt="Google Cloud" width="39px" src="https://seeklogo.com/images/A/amazon-dark-logo-01F3CFFF03-seeklogo.com.png" />
 
 
 
