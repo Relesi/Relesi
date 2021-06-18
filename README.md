@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="SSH" width="26px" src="https://research.reading.ac.uk/act/wp-content/uploads/sites/2/Unorganized/ssh-150x150.png" />
 
-
-<img align="left" alt="Jenkins" width="26px" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
-
 <img align="left" alt="Ubuntu" width="31px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
+
+<img align="left" alt="Jenkins" width="31px" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
+
 
 
 
