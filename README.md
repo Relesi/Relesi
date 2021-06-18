@@ -96,6 +96,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Kafka" width="24px" src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" />
 
 
+<img align="left" alt="Google Cloud" width="31px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
+
+
+
 
 
 
