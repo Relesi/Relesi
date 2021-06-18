@@ -71,17 +71,14 @@ Here are some ideas to get you started:
 <img align="left" alt="Camel" width="26px" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png" />
 <img align="left" alt="Quarkus" width="26px" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" />
 
+<!-- 
 
-
-
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 
 <img align="left" alt="Rest API" width="26px" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" /> -->
 
 <img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
-
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
