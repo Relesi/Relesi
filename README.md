@@ -80,6 +80,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 
 <img align="left" alt="Rest API" width="26px" src="https://cdn.auth0.com/blog/aspnet-core-web-apis/swagger.png" />
 
+<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
@@ -91,7 +94,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Ubuntu" width="31px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
 
-<img align="left" alt="Jenkins" width="31px" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
+<img align="left" alt="Jenkins" width="30px" src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" />
 
 <img align="left" alt="Kafka" width="24px" src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" />
 
@@ -99,7 +102,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Google Cloud" width="31px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
 
 
-<img align="left" alt="Google Cloud" width="39px" src="https://seeklogo.com/images/A/amazon-dark-logo-01F3CFFF03-seeklogo.com.png" />
+<img align="left" alt="AWS" width="39px" src="https://seeklogo.com/images/A/amazon-dark-logo-01F3CFFF03-seeklogo.com.png" />
 
 
 
