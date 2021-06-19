@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### Technology Used  <img   width="18px" src="https://image.flaticon.com/icons/svg/888/888954.svg" />
 
 ---
-<img align="left" alt="Java" width="31px" src="https://seeklogo.com/images/J/Java-logo-6BBEB11CBA-seeklogo.com.png" />
+<img align="left" alt="Java" width="30px" src="https://seeklogo.com/images/J/Java-logo-6BBEB11CBA-seeklogo.com.png" />
 <img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />
 <img align="left" alt="Intellij" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
 <img align="left" alt="Camel" width="26px" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png" />
@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Kafka" width="24px" src="https://seeklogo.com/images/K/kafka-logo-8E01E03CAD-seeklogo.com.png" />
 
 
-<img align="left" alt="Google Cloud" width="31px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
+<img align="left" alt="Google Cloud" width="30px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
 
 
-<img align="left" alt="AWS" width="39px" src="https://seeklogo.com/images/A/amazon-dark-logo-01F3CFFF03-seeklogo.com.png" />
+<img align="left" alt="AWS" width="38px" src="https://seeklogo.com/images/A/amazon-dark-logo-01F3CFFF03-seeklogo.com.png" />
 
 
 
