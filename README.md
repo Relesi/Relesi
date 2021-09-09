@@ -46,8 +46,8 @@ Here are some ideas to get you started:
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=Relesi&theme=chartreuse&show_icons=true&hide_border=true" />
     </td>
-<!--     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" /> -->
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" />
     </td>
   </tr>
 </table>
