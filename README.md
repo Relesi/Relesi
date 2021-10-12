@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=relesi&theme=chartreuse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Relesi&theme=chartreuse&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=relesi&theme=chartreuse&hide_border=true" />
     </td>
   </tr>
 </table>
