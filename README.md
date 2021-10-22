@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 - Responsible for architecture and application planning, with solid knowledge in Scalable Architecture, Micro Service, Cloud, DevOps, Integration with Legacy Systems, Asynchronous Architectures, Agile Methodologies, Containers, and Kubernetes, Databases (relational and non-relational).
 
-- Strong performance with, the definition of strategies, choice of technologies, languages, and frameworks for development, identification of the right time to use each technology, prioritization of customer needs, review of the entire project (Architecture, Development, and Operation), documentation of the stages of the system, assurance of the full functioning of the software.
-
-- I am a Software Architect and Back End Developer for 12 years. 
-- I normally work with Java, Spring Boot and Oracle, using micro service architecture and its solutions, depending on what I am working on.
+- I am a Software Architect and Solutions Architect.
 - Developer, passionate about coding for fun, tech addicted and open-source lover.
 - Passionate about developing and systems' architecture, I believe that open source software and cloud computing are the future.
 - :guitar: I enjoy playing the guitar and electric guitar.
