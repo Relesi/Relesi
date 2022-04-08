@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jwendl.jwendl)
+
 #### I'm Renato - 💻 
 
 - Responsible for architecture and application planning, with solid knowledge in Scalable Architecture, Micro Service, Cloud, DevOps, Integration with Legacy Systems, Asynchronous Architectures, Agile Methodologies, Containers, and Kubernetes, Databases (relational and non-relational).
